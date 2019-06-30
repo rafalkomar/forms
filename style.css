@@ -1,0 +1,29 @@
+html {
+
+    box-sizing: border-box;
+}
+
+*,
+*:after,
+*:before {
+    box-sizing: inherit;
+}
+
+body{
+
+    background: #2e2240;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.form{
+
+    max-width: 600px;
+    width: 100%;
+}
+
+
